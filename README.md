@@ -2,8 +2,8 @@
   Meu nome é João Gabriel Correa, criador de conteúdo, empreendedor e estudante de programação de sistemas!
 <div align="">
  <a href="https://github.com/JoaoGabrielCorrea">
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoGabrielCorrea&show_icons=true&theme=bear&include_all_commits=true&count_private=true"/>
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoGabrielCorrea&layout=compact&langs_count=7&theme=bear"/>
+ <img height="160em" src="https://github-readme-stats.vercel.app/api?username=JoaoGabrielCorrea&show_icons=true&theme=bear&include_all_commits=true&count_private=true"/>
+ <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoGabrielCorrea&layout=compact&langs_count=7&theme=bear"/>
 </div>
 <div style="display: inline_block"><br>
  
