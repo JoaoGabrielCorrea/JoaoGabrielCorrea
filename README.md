@@ -1,5 +1,5 @@
 ##     Olá, seja bem vindo ao meu perfil! 
-  Meu nome é João Gabriel Correa, criador de conteúdo, empreendedor e estudante de programação de sistemas!
+  Meu nome é João Gabriel Correa, criador de conteúdo, empreendedor, estudante de programação de sistemas e Economia!
 <div align="">
  <a href="https://github.com/JoaoGabrielCorrea">
  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=JoaoGabrielCorrea&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
